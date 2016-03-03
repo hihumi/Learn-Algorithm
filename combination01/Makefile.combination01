@@ -1,0 +1,2 @@
+combination01: combination01.cpp
+	g++ -g -Wall -o combination01 combination01.cpp
